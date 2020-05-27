@@ -1,6 +1,7 @@
 package leetcode.middle.lengthoflongestsubstring;
 
 import java.util.HashMap;
+import java.util.HashSet;
 
 /**
  *
@@ -28,7 +29,7 @@ public class LengthOfLongestSubstring {
 
     public static void main(String[] args){
         LengthOfLongestSubstring lengthOfLongestSubstring=new LengthOfLongestSubstring();
-        System.out.println(lengthOfLongestSubstring.lengthOfLongestSubstring(new String("pwwkew") ));
+        System.out.println(lengthOfLongestSubstring.lengthOfLongestSubstring2(new String("pwwkew") ));
     }
 
     public int lengthOfLongestSubstring(String s) {
@@ -49,6 +50,28 @@ public class LengthOfLongestSubstring {
             right++ ;
         }
         return Math.max(max,right - left) ;
+    }
+
+    public int lengthOfLongestSubstring2(String s) {
+        if(s == null || s.length() == 0){
+            return 0;
+        }
+        //暴力的做法是：判断以每一个位置为起点的最长无重复字符
+        int res = 0;
+        for(int start = 0; start < s.length(); start++){
+            HashSet<Character> set = new HashSet<>();
+            set.add(s.charAt(start));
+            for(int end = start+1; end < s.length(); end++ ){
+                if(!set.contains(s.charAt(end))){
+                    set.add(s.charAt(end));
+                }else{
+                    //res = Math.max(res,set.size());//由于可能只有一个字符，无法进入内层循环因此不能在这里更新
+                    break;
+                }
+            }
+            res = Math.max(res,set.size());//在内层循环结束后更新
+        }
+        return res;
     }
 
 
