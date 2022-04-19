@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92311661-79c0-45ea-8dde-d5d969e26e66" name="Default" comment="时间操作">
+      <change beforePath="$PROJECT_DIR$/src/T1.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BigDecimal</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="已捆绑(Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hXuppuIvmuVPZOUwR68VtEXbyS" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leet0419.Solution" />
+      <module name="helloword" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.leet0419.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92311661-79c0-45ea-8dde-d5d969e26e66" name="Default" comment="" />
+      <created>1565079067168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565079067168</updated>
+      <workItem from="1565079070734" duration="299000" />
+      <workItem from="1565266711346" duration="2012000" />
+      <workItem from="1566178333284" duration="13171000" />
+      <workItem from="1566460572947" duration="39000" />
+      <workItem from="1566524996874" duration="229000" />
+      <workItem from="1566954081323" duration="609000" />
+      <workItem from="1584767899002" duration="64000" />
+      <workItem from="1584767985654" duration="7000" />
+      <workItem from="1584768000529" duration="656000" />
+      <workItem from="1584769344252" duration="33000" />
+      <workItem from="1584792812208" duration="1124000" />
+      <workItem from="1590065454056" duration="2649000" />
+      <workItem from="1590208845756" duration="6978000" />
+      <workItem from="1590494217987" duration="1673000" />
+      <workItem from="1590496371311" duration="35000" />
+      <workItem from="1590499542605" duration="4891000" />
+      <workItem from="1590582832420" duration="2657000" />
+      <workItem from="1590589137888" duration="377000" />
+      <workItem from="1590897636421" duration="1297000" />
+      <workItem from="1592442924012" duration="4398000" />
+      <workItem from="1592530988124" duration="2537000" />
+      <workItem from="1593157036384" duration="259000" />
+      <workItem from="1593157624116" duration="107000" />
+      <workItem from="1596024663534" duration="472000" />
+      <workItem from="1596025153361" duration="316000" />
+      <workItem from="1596025491181" duration="3611000" />
+      <workItem from="1596031228453" duration="7000" />
+      <workItem from="1597061841115" duration="791000" />
+      <workItem from="1597219338292" duration="3971000" />
+      <workItem from="1599284067151" duration="1863000" />
+      <workItem from="1600561327379" duration="53000" />
+      <workItem from="1600563129437" duration="476000" />
+      <workItem from="1600563622096" duration="486000" />
+      <workItem from="1600564126726" duration="75000" />
+      <workItem from="1600565307465" duration="375000" />
+      <workItem from="1600565942334" duration="27000" />
+      <workItem from="1600566088957" duration="25000" />
+      <workItem from="1600566239979" duration="236000" />
+      <workItem from="1600566530405" duration="332000" />
+      <workItem from="1606623168214" duration="87000" />
+      <workItem from="1608635497220" duration="7198000" />
+      <workItem from="1610240115048" duration="5524000" />
+      <workItem from="1612866676490" duration="1552000" />
+      <workItem from="1614483689286" duration="336000" />
+      <workItem from="1614691137550" duration="203000" />
+      <workItem from="1614691388140" duration="73000" />
+      <workItem from="1614691762566" duration="6000" />
+      <workItem from="1650371626586" duration="23000" />
+      <workItem from="1650371666410" duration="1701000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试类">
+      <created>1584768054458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584768054459</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hello">
+      <created>1584793020865</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584793020865</updated>
+    </task>
+    <task id="LOCAL-00003" summary="关系调整日期模拟 2020/5/23">
+      <created>1590215603817</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590215603817</updated>
+    </task>
+    <task id="LOCAL-00004" summary="配置文件提交2020-05-26">
+      <created>1590500413079</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590500413079</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.两数求和 2020-05-26">
+      <created>1590504011075</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590504011075</updated>
+    </task>
+    <task id="LOCAL-00006" summary="3. 无重复字符的最长子串 2020-05-27">
+      <created>1590584971522</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590584971522</updated>
+    </task>
+    <task id="LOCAL-00007" summary="3. 无重复字符的最长子串 2020-05-27">
+      <created>1590585484605</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590585484605</updated>
+    </task>
+    <task id="LOCAL-00008" summary="漫画算法-数组操作">
+      <created>1592446906522</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592446906522</updated>
+    </task>
+    <task id="LOCAL-00009" summary="生成bat文件">
+      <created>1600170168534</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600170168534</updated>
+    </task>
+    <task id="LOCAL-00010" summary="漫画算法-链表操作">
+      <created>1600170844930</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600170844930</updated>
+    </task>
+    <task id="LOCAL-00011" summary="时间操作">
+      <created>1600511408288</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600511408288</updated>
+    </task>
+    <task id="LOCAL-00012" summary="分页">
+      <created>1610367364996</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610367364996</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试类" />
+    <MESSAGE value="hello" />
+    <MESSAGE value="关系调整日期模拟 2020/5/23" />
+    <MESSAGE value="配置文件提交2020-05-26" />
+    <MESSAGE value="1.两数求和 2020-05-26" />
+    <MESSAGE value="3. 无重复字符的最长子串 2020-05-27" />
+    <MESSAGE value="漫画算法-数组操作" />
+    <MESSAGE value="生成bat文件" />
+    <MESSAGE value="漫画算法-链表操作" />
+    <MESSAGE value="时间操作" />
+    <MESSAGE value="分页" />
+    <option name="LAST_COMMIT_MESSAGE" value="分页" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1650372028187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1650372028187" />
+    <state x="773" y="223" key="RollbackChangesDialog" timestamp="1650372064507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="223" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1650372064507" />
+    <state x="359" y="172" key="SettingsEditor" timestamp="1650371980415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="359" y="172" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1650371980415" />
+    <state x="781" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650371936177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1650371936177" />
+    <state x="803" y="293" key="refactoring.ChangeSignatureDialog" timestamp="1650373230694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="293" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1650373230694" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test1/Test1_1.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ComicAlgorithm/list/Mylist.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
