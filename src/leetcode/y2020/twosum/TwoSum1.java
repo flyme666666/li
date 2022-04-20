@@ -1,4 +1,4 @@
-package leetcode.easy.twosum;
+package leetcode.y2020.twosum;
 
 import java.util.HashMap;
 

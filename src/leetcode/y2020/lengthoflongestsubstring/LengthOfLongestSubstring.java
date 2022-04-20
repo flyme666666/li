@@ -1,4 +1,4 @@
-package leetcode.middle.lengthoflongestsubstring;
+package leetcode.y2020.lengthoflongestsubstring;
 
 import java.util.HashMap;
 import java.util.HashSet;

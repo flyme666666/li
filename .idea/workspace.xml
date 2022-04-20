@@ -10,8 +10,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92311661-79c0-45ea-8dde-d5d969e26e66" name="Default" comment="时间操作">
-      <change beforePath="$PROJECT_DIR$/src/T1.java" beforeDir="false" />
+    <list default="true" id="92311661-79c0-45ea-8dde-d5d969e26e66" name="Default" comment="leetCode">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="lyw &lt;1421379266@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -56,7 +61,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -70,12 +75,12 @@
       <module />
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leet0419.Solution" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.y2022.leet0419.Solution" />
       <module name="helloword" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.leet0419.*" />
+          <option name="PATTERN" value="leetcode.y2022.leet0419.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.Solution" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -192,7 +192,10 @@
       <workItem from="1614691388140" duration="73000" />
       <workItem from="1614691762566" duration="6000" />
       <workItem from="1650371626586" duration="23000" />
-      <workItem from="1650371666410" duration="1701000" />
+      <workItem from="1650371666410" duration="2074000" />
+      <workItem from="1650373903306" duration="192000" />
+      <workItem from="1650374140814" duration="1208000" />
+      <workItem from="1650413343463" duration="817000" />
     </task>
     <task id="LOCAL-00001" summary="测试类">
       <created>1584768054458</created>
@@ -278,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610367364996</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="leetCode">
+      <created>1650373598032</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1650373598032</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,21 +328,50 @@
     <MESSAGE value="漫画算法-链表操作" />
     <MESSAGE value="时间操作" />
     <MESSAGE value="分页" />
-    <option name="LAST_COMMIT_MESSAGE" value="分页" />
+    <MESSAGE value="leetCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetCode" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1650372028187">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1650372028187" />
+    <state x="466" y="96" width="787" height="848" key="CommitChangelistDialog2" timestamp="1650373730473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="466" y="96" width="787" height="848" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1650373730473" />
+    <state width="703" height="492" key="Git.Branch.Popup" timestamp="1650413492806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="703" height="492" key="Git.Branch.Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1650413492806" />
+    <state width="938" height="159" key="GridCell.Tab.0.bottom" timestamp="1650373873907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="159" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1650373873907" />
+    <state width="938" height="159" key="GridCell.Tab.0.center" timestamp="1650373873907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="159" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1650373873907" />
+    <state width="938" height="159" key="GridCell.Tab.0.left" timestamp="1650373873907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="159" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1650373873907" />
+    <state width="938" height="159" key="GridCell.Tab.0.right" timestamp="1650373873907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="159" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1650373873907" />
     <state x="773" y="223" key="RollbackChangesDialog" timestamp="1650372064507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="773" y="223" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1650372064507" />
-    <state x="359" y="172" key="SettingsEditor" timestamp="1650371980415">
+    <state x="359" y="172" key="SettingsEditor" timestamp="1650374476958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="359" y="172" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1650371980415" />
+    <state x="359" y="172" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1650374476958" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1650414166037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1650414166037" />
     <state x="781" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650371936177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
