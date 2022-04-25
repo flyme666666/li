@@ -13,8 +13,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92311661-79c0-45ea-8dde-d5d969e26e66" name="Default" comment="2022-04-20">
+    <list default="true" id="92311661-79c0-45ea-8dde-d5d969e26e66" name="Default" comment="2022-04-22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloword/ComicAlgorithm/list/Mylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloword/ComicAlgorithm/list/Mylist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloword/leetcode/easy/twosum/TwoSum1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloword/leetcode/easy/twosum/TwoSum2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloword/leetcode/leet0419/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloword/leetcode/middle/lengthoflongestsubstring/LengthOfLongestSubstring.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +231,10 @@
       <workItem from="1650413343463" duration="817000" />
       <workItem from="1650426972078" duration="1839000" />
       <workItem from="1650449782661" duration="284000" />
-      <workItem from="1650594783963" duration="2269000" />
+      <workItem from="1650594783963" duration="3138000" />
+      <workItem from="1650784821673" duration="102000" />
+      <workItem from="1650794893727" duration="1346000" />
+      <workItem from="1650854505959" duration="849000" />
     </task>
     <task id="LOCAL-00001" summary="测试类">
       <created>1584768054458</created>
@@ -326,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650435084860</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2022-04-22">
+      <created>1650597267369</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1650597267369</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,7 +383,8 @@
     <MESSAGE value="分页" />
     <MESSAGE value="leetCode" />
     <MESSAGE value="2022-04-20" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-04-20" />
+    <MESSAGE value="2022-04-22" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-04-22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
