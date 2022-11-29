@@ -1,4 +1,4 @@
-package leetcode.y2022.leet0422;
+package leetcode.y2022.d0422;
 
 import java.util.Arrays;
 

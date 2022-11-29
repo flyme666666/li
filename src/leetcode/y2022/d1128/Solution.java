@@ -1,4 +1,4 @@
-package leetcode.y2022.leet1128;
+package leetcode.y2022.d1128;
 
 /**
  * 最大平均值和的分组

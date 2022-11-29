@@ -1,4 +1,4 @@
-package leetcode.y2022.leet1127;
+package leetcode.y2022.d1127;
 
 /**
  * https://leetcode.cn/problems/check-if-array-is-sorted-and-rotated/description/

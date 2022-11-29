@@ -1,4 +1,4 @@
-package leetcode.y2022.leet0420;
+package leetcode.y2022.d0420;
 
 /**
  *     作者：LeetCode-Solution
