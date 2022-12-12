@@ -13,7 +13,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92311661-79c0-45ea-8dde-d5d969e26e66" name="Default" comment="2022-11-29">
+    <list default="true" id="92311661-79c0-45ea-8dde-d5d969e26e66" name="Default" comment="2022-12-01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     <setting file="file://$PROJECT_DIR$/src/leetcode/y2022/d1128/Solution.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/leetcode/y2022/d1129/Solution.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/leetcode/y2022/d1201/Solution.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/leetcode/y2022/d1202/Solution.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -281,7 +282,8 @@
       <workItem from="1669539504201" duration="4498000" />
       <workItem from="1669621886899" duration="5295000" />
       <workItem from="1669700805094" duration="5631000" />
-      <workItem from="1669885730974" duration="407000" />
+      <workItem from="1669885730974" duration="587000" />
+      <workItem from="1669969601562" duration="1295000" />
     </task>
     <task id="LOCAL-00001" summary="测试类">
       <created>1584768054458</created>
@@ -409,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669709108343</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="2022-12-01">
+      <created>1669886311283</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1669886311283</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,7 +463,8 @@
     <MESSAGE value="2022-11-27" />
     <MESSAGE value="2022-11-28" />
     <MESSAGE value="2022-11-29" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-11-29" />
+    <MESSAGE value="2022-12-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-12-01" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
