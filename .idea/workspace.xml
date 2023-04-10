@@ -13,9 +13,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92311661-79c0-45ea-8dde-d5d969e26e66" name="Default" comment="2023-04-02">
+    <list default="true" id="92311661-79c0-45ea-8dde-d5d969e26e66" name="Default" comment="2023-04-04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/y2023/d0404/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/y2023/d0404/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloword/leetcode/y2022/leet0419/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloword/leetcode/y2022/leet0420/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloword/leetcode/y2022/leet0422/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloword/leetcode/y2022/leet0425/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloword/leetcode/y2022/leet1127/Solution.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -306,7 +310,8 @@
       <workItem from="1679969151648" duration="649000" />
       <workItem from="1680230324463" duration="2866000" />
       <workItem from="1680410451748" duration="472000" />
-      <workItem from="1680410998727" duration="7603000" />
+      <workItem from="1680410998727" duration="12635000" />
+      <workItem from="1681112164685" duration="2347000" />
     </task>
     <task id="LOCAL-00001" summary="测试类">
       <created>1584768054458</created>
@@ -462,7 +467,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680575137417</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="2023-04-04">
+      <created>1680591147156</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1680591147156</updated>
+    </task>
+    <task id="LOCAL-00024" summary="2023-04-04">
+      <created>1680603662491</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1680603662491</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +530,8 @@
     <MESSAGE value="2022-12-02" />
     <MESSAGE value="2023-03-31" />
     <MESSAGE value="2023-04-02" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-04-02" />
+    <MESSAGE value="2023-04-04" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-04-04" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
