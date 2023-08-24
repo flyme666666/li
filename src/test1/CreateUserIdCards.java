@@ -3632,7 +3632,7 @@ public class CreateUserIdCards {
             System.out.print(g.generate());  
             System.out.print("\t");  
             System.out.print(g.generate());  
-            System.out.print("\t");  
+            System.out.print("\t");
             System.out.print(g.generate());  
             System.out.print("\t");  
             System.out.println(g.generate());  
