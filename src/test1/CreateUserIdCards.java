@@ -3532,7 +3532,7 @@ public class CreateUserIdCards {
      * 生成方法 
      * @return 
      */ 
-    public String generate() {  
+    public String generate() {
         StringBuilder generater = new StringBuilder();  
         generater.append(this.randomAreaCode());  
         generater.append(this.randomBirthday());  
